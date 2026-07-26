@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I’m Deepika Attri
 
-<!--
-**Deepika-Attri/Deepika-Attri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Android Developer currently transitioning into AI and Machine Learning, passionate about building intelligent applications. I have 4 years of experience in Android development and am currently expanding my skills in Python, Machine Learning, NLP, and Generative AI.
 
-Here are some ideas to get you started:
+## 💻 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Programming: Java, Kotlin, Python
+* AI/ML: Machine Learning, NLP, Sentence Transformers
+* Mobile: Android SDK, Android Studio
+* Database: SQLite, Firebase
+* Version Control: Git & GitHub
+* Tools: VS Code, Android Studio, Streamlit
+
+## 🌱 Currently Working On
+
+* Building AI and Machine Learning projects
+* Learning NLP, RAG, and LLM applications
+* Creating intelligent chatbot applications using Python
+
+## 📫 Reach me through
+
+💼 LinkedIn: www.linkedin.com/in/deepikaattri5
+
+📧 Email: deepika89883@gmail.com
