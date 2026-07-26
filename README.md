@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Deepika Attri
 
-🌱 Android Developer currently transitioning into AI and Machine Learning, passionate about building intelligent applications. I have 4 years of experience in Android development and am currently expanding my skills in Python, Machine Learning, NLP, and Generative AI.
+🌱 Android Developer currently transitioning into AI and Machine Learning, passionate about building intelligent applications. I have 3+ years of experience in Android development and am currently expanding my skills in Python, Machine Learning, NLP, and Generative AI.
 
 ## 💻 Skills
 
