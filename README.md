@@ -5,19 +5,24 @@
 ## 💻 Skills
 
 * Programming: Java, Kotlin, Python
-* AI/ML: Machine Learning, NLP, Sentence Transformers
-* Mobile: Android SDK, Android Studio
+* AI/LLM: LLM APIs (Google Gemini), Prompt Engineering, Semantic Search (Sentence-Transformers)
+* Mobile: Android SDK, Jetpack Compose, MVVM, Clean Architecture, Retrofit
 * Database: SQLite, Firebase
-* Version Control: Git & GitHub
-* Tools: VS Code, Android Studio, Streamlit
+* Tools: Git/GitHub, Streamlit, REST APIs, VS Code, Android Studio
+
+## 🚀 Featured Projects
+
+[AI Notes Generator](https://github.com/Deepika-Attri/ai-notes-generator) - An AI-powered study assistant that extracts text from PDFs and uses the Gemini API to auto-generate summaries, flashcards, and difficulty-adjustable quizzes.
+
+[Customer Support Chatbot](https://github.com/Deepika-Attri/ai-notes-generator) - A context-aware support chatbot with intent detection and multi-turn follow-up handling, built with sentence-transformers.
 
 ## 🌱 Currently Working On
 
-* Building AI and Machine Learning projects
-* Learning NLP, RAG, and LLM applications
-* Creating intelligent chatbot applications using Python
+* Machine Learning fundamentals
+* Retrieval-Augmented Generation (RAG), embeddings, and vector databases
+* Building an end-to-end RAG-based project
 
-## 📫 Reach me through
+## 📫 Reach me
 
 💼 LinkedIn: www.linkedin.com/in/deepikaattri5
 
