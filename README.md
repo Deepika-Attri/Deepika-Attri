@@ -5,11 +5,18 @@
 ### AI & LLM Engineer in Progress 🤖
 
 **Software Developer → AI/LLM Engineering**
-3+ years of Android development · Building practical AI applications with Python
+3+ years of Android development · Now building practical AI applications with Python
 
-[LinkedIn](https://www.linkedin.com/in/deepikaattri5) · [GitHub](https://github.com/Deepika-Attri)
+[LinkedIn](https://www.linkedin.com/in/deepikaattri5) · [Email](mailto:deepika89883@gmail.com)
 
 </div>
+
+---
+
+### ✨ About Me
+
+I'm a software developer transitioning from **Android development to AI/LLM engineering**.
+I enjoy turning AI concepts into practical, usable applications — especially with **RAG, semantic search and LLMs**.
 
 ---
 
@@ -24,19 +31,19 @@
 **Development**
 `Streamlit` `SQLite` `REST APIs` `Git` `GitHub` `VS Code`
 
-**Previous Experience**
+**Android**
 `Kotlin` `Java` `Android SDK` `Jetpack Compose` `MVVM` `Clean Architecture` `Retrofit` `Firebase`
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project                                                                                      | What I Built                                                                                          |
-| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| 📄 **[ResumeMatch AI](https://github.com/Deepika-Attri/resume-match-ai)**                    | RAG-based resume ↔ job matching using **Gemini, embeddings, FAISS & grounded analysis**               |
-| 📚 **[RAG Document Explainer](https://github.com/Deepika-Attri/rag-document-explainer)**     | PDF Q&A using **document chunking, embeddings, FAISS retrieval & Gemini** with source references      |
-| 📝 **[AI Notes Generator](https://github.com/Deepika-Attri/ai-notes-generator)**             | PDF → **AI summaries, flashcards & difficulty-based quizzes** using Gemini, with SQLite persistence   |
-| 💬 **[Customer Support Chatbot](https://github.com/Deepika-Attri/customer-support-chatbot)** | Context-aware support chatbot using **intent detection, semantic similarity & Sentence Transformers** |
+| Project                                                                                      | What I Built                                                                                  |
+| -------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| 📄 **[ResumeMatch AI](https://github.com/Deepika-Attri/resume-match-ai)**                    | RAG-based resume ↔ job matching with **Gemini, embeddings, FAISS & grounded analysis**        |
+| 📚 **[RAG Document Explainer](https://github.com/Deepika-Attri/rag-document-explainer)**     | PDF Q&A with **chunking, embeddings, FAISS retrieval & Gemini**                               |
+| 📝 **[AI Notes Generator](https://github.com/Deepika-Attri/ai-notes-generator)**             | PDF → **summaries, flashcards & quizzes** using Gemini + SQLite                               |
+| 💬 **[Customer Support Chatbot](https://github.com/Deepika-Attri/customer-support-chatbot)** | Context-aware chatbot using **intent detection, semantic similarity & Sentence Transformers** |
 
 ---
 
@@ -52,8 +59,6 @@
 
 <div align="center">
 
-📫 **[deepika89883@gmail.com](mailto:deepika89883@gmail.com)**
-
-⭐ *Building, learning & experimenting with AI.*
+📫 **Let's connect & build something with AI.**
 
 </div>
