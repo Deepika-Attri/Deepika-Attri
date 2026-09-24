@@ -16,7 +16,7 @@
 ### ✨ About Me
 
 I'm a software developer transitioning from **Android development to AI/LLM engineering**.
-I enjoy turning AI concepts into practical, usable applications — especially with **RAG, semantic search and LLMs**.
+I enjoy turning AI concepts into practical, usable applications especially with **RAG, semantic search and LLMs**.
 
 ---
 
