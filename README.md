@@ -1,29 +1,45 @@
-# 👋 Hi, I’m Deepika Attri
+# 👋 Hi, I'm Deepika Attri
 
-🌱 Android Developer currently transitioning into AI and Machine Learning, passionate about building intelligent applications. I have 3+ years of experience in Android development and am currently expanding my skills in Python, Machine Learning, NLP, and Generative AI.
+💻 **Software Developer transitioning into AI & LLM Engineering**, with 3+ years of Android development experience and hands-on experience building AI applications with Python.
 
-## 💻 Skills
+## 🛠️ Skills
 
-* Programming: Java, Kotlin, Python
-* AI/LLM: LLM APIs (Google Gemini), Prompt Engineering, Semantic Search (Sentence-Transformers)
-* Mobile: Android SDK, Jetpack Compose, MVVM, Clean Architecture, Retrofit
-* Database: SQLite, Firebase
-* Tools: Git/GitHub, Streamlit, REST APIs, VS Code, Android Studio
+**Languages:** Python, Java, Kotlin
+**AI & LLM:** Generative AI, Google Gemini API, Prompt Engineering, RAG, Semantic Search, Embeddings
+**AI Tools:** Sentence Transformers, FAISS, Pydantic
+**Application:** Streamlit, REST APIs, SQLite, PyMuPDF
+**Development:** Git, GitHub, VS Code, Android Studio
+**Android:** Android SDK, Jetpack Compose, MVVM, Clean Architecture, Retrofit, Firebase
 
 ## 🚀 Featured Projects
 
-[AI Notes Generator](https://github.com/Deepika-Attri/ai-notes-generator) - An AI-powered study assistant that extracts text from PDFs and uses the Gemini API to auto-generate summaries, flashcards, and difficulty-adjustable quizzes.
+### 📄 [ResumeMatch AI](https://github.com/Deepika-Attri/resume-match-ai)
 
-[Customer Support Chatbot](https://github.com/Deepika-Attri/ai-notes-generator) - A context-aware support chatbot with intent detection and multi-turn follow-up handling, built with sentence-transformers.
+RAG-based resume-to-job matching system using semantic search, FAISS, Gemini, and grounded analysis.
 
-## 🌱 Currently Working On
+### 📚 [RAG Document Explainer](https://github.com/Deepika-Attri/rag-document-explainer)
 
-* Machine Learning fundamentals
-* Retrieval-Augmented Generation (RAG), embeddings, and vector databases
-* Building an end-to-end RAG-based project
+Document Q&A application using PDF processing, embeddings, FAISS retrieval, and Gemini.
 
-## 📫 Reach me
+### 📝 [AI Notes Generator](https://github.com/Deepika-Attri/ai-notes-generator)
 
-💼 LinkedIn: www.linkedin.com/in/deepikaattri5
+AI study assistant that generates summaries, flashcards, and quizzes from PDFs using Gemini.
 
-📧 Email: deepika89883@gmail.com
+### 💬 [Customer Support Chatbot](https://github.com/Deepika-Attri/customer-support-chatbot)
+
+Context-aware support chatbot using intent detection, semantic similarity, and Sentence Transformers.
+
+## 🌱 Currently Learning
+
+* AI Agents & Tool Calling
+* Machine Learning
+* Advanced RAG & Vector Search
+* LLM Application Development
+
+## 🎯 Open To
+
+**AI Engineer · LLM Engineer · Generative AI · Junior AI/ML Roles**
+
+## 📫 Connect
+
+[LinkedIn](https://www.linkedin.com/in/deepikaattri5) · **[deepika89883@gmail.com](mailto:deepika89883@gmail.com)**
