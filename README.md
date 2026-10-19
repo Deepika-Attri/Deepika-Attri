@@ -5,7 +5,7 @@
 ### AI & LLM Engineer in Progress 🤖
 
 **Software Developer → AI/LLM Engineering**
-3+ years of Android development · Now building practical AI applications with Python
+4 years of Android development · Now building practical AI applications with Python
 
 [LinkedIn](https://www.linkedin.com/in/deepikaattri5) · [Email](mailto:deepika89883@gmail.com)
 
